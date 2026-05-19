@@ -20,7 +20,7 @@ const information = {
     name: "Pranesh Deshmukh",
     pronouns: "he/him",
     currentOrganisation: "Freelance",
-    location: "Chhatrapati SambhajiNagar, Maharashtra, India",
+    location: "Chhatrapati SambhajiNagar(Aurangabad), Maharashtra, India",
     skills: {
         languages: ["HTML", "CSS", "JavaScript", "Python", "C++", "TypeScript", "C", "R"],
         frameworks: ["ReactJS", "NextJS", "Tailwind CSS", "Django", "ExpressJS"],
