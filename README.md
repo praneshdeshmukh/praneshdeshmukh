@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ```javascript
 const information = {
-    name: "Your Name",
+    name: "Pranesh Deshmukh",
     pronouns: "he/him",
-    currentOrganisation: "Your Org",
-    location: "Your City, State, Country",
+    currentOrganisation: "Freelance",
+    location: "Chhatrapati SambhajiNagar, Maharashtra, India",
     skills: {
-        languages: ["HTML", "CSS", "JavaScript", "Python"],
-        frameworks: ["ReactJS", "NextJS", "ExpressJS"],
+        languages: ["HTML", "CSS", "JavaScript", "Python", "C++", "TypeScript", "C", "R"],
+        frameworks: ["ReactJS", "NextJS", "Tailwind CSS", "Django", "ExpressJS"],
         databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "Docker", "Figma"],
+        tools: ["Git", "GitHub", "Postman", "Firebase", "Figma"],
     },
 };
 ` `` ← (no space in real usage)
