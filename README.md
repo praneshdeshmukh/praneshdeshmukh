@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 const information = {
     name: "Pranesh Deshmukh",
     pronouns: "he/him",
-    currentOrganisation: "Freelance",
-    location: "Chhatrapati SambhajiNagar(Aurangabad), Maharashtra, India",
+    current Organization: "Freelance, Pursuing MTech from NIT Rourkela",
+    location: "Rourkela, Odisha, India",
     skills: {
-        languages: ["HTML", "CSS", "JavaScript", "Python", "C++", "TypeScript", "C", "R"],
-        frameworks: ["ReactJS", "NextJS", "Tailwind CSS", "Django", "ExpressJS"],
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "Postman", "Firebase", "Figma"],
+        languages: ["Python", "C", "C++", "JavaScript", "TypeScript"],
+        frameworks: ["ReactJS", "NextJS", "Tailwind CSS", "ExpressJS", "NodeJs"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        tools: ["Git", "GitHub", "Postman", "Prisma ORM", "Firebase", "Figma"],
     },
 };
 ```
