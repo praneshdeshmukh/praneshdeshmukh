@@ -25,7 +25,7 @@ const information = {
         languages: ["Python", "C", "C++", "JavaScript", "TypeScript"],
         frameworks: ["ReactJS", "NextJS", "Tailwind CSS", "ExpressJS", "NodeJs"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "GitHub", "Postman", "Prisma ORM", "Firebase", "Figma"],
+        tools: ["Git", "GitHub", "Postman", "Prisma ORM", "Firebase", "Figma"]
     },
 };
 ```
